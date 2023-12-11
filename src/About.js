@@ -25,7 +25,7 @@ const About = () => {
         ></Card>
 
         <Card
-          imagePath={process.env.PUBLIC_URL + ""}
+          imagePath={process.env.PUBLIC_URL + "NikithaHeadshot2.jpg"}
           title={"Nikitha M. V."}
           paragraph={
             "Nikitha pioneered our 1D motion controller algorithm. She thoroughly tested and debugged the algorithm and utilized GPIO pins to implement the complex servo Raspberry Pi connection. Nikitha helped combine the server code into the existing motion controller architecture. Finally, Nikitha contributed immensely in the ideation phase as well as during the creation of presentation and demo materials."
